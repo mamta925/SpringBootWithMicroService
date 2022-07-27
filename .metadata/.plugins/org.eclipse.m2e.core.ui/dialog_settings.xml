@@ -6,6 +6,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/reading-service"/>
+			<item value="/Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/reading-cloud-config-server"/>
 			<item value="/Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/h2-db"/>
 			<item value="/Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/web-rest-app"/>
 			<item value="/Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/web-app"/>
