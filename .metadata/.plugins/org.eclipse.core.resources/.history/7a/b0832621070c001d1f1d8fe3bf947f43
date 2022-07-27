@@ -1,0 +1,20 @@
+package com.spr;
+
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MyAppController {
+	
+	@RequestMapping("/welcome")
+	public String invite() {
+		return "Hi All";
+	}
+	
+	@RequestMapping("/invite/username")
+	public String invite(@PathVariable("username")String username) {
+		return "welcome to <h1>"+ username+"</h1>";
+	}
+
+}

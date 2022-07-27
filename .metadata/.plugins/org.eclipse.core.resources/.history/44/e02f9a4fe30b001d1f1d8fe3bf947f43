@@ -1,0 +1,49 @@
+package com.spr;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Person {
+	
+	private int pid;
+	private String pname;
+	private String job;
+	private Address addr;
+	public Person () {
+		this.pid = 101;
+		this.pname = "Jayan";
+		this.job = "Executive";
+	}
+	public int getPid() {
+		return pid;
+	}
+	public void setPid(int pid) {
+		this.pid = pid;
+	}
+	public Address getAddr() {
+		return addr;
+	}
+	public void setAddr(Address addr) {
+		this.addr = addr;
+	}
+	public String getPname() {
+		return pname;
+	}
+	public void setPname(String pname) {
+		this.pname = pname;
+	}
+	public String getJob() {
+		return job;
+	}
+	public void setJob(String job) {
+		this.job = job;
+	}
+	
+	public void show() {
+		System.out.println("ID="+ this.getPid());
+		System.out.println("Name="+ this.getPname());
+		System.out.println("Job="+ this.getJob());
+		System.out.println("Address="+ this.getAddr());
+	}
+
+}

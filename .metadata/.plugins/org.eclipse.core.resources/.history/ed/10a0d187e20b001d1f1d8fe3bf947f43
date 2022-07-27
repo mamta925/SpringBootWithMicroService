@@ -1,0 +1,39 @@
+package com.spr;
+
+@Component
+public class Person {
+	
+	private int pid;
+	private String pname;
+	private String job;
+	public Person () {
+		this.pid = 101;
+		this.pname = "Jayan";
+		this.job = "Executive";
+	}
+	public int getPid() {
+		return pid;
+	}
+	public void setPid(int pid) {
+		this.pid = pid;
+	}
+	public String getPname() {
+		return pname;
+	}
+	public void setPname(String pname) {
+		this.pname = pname;
+	}
+	public String getJob() {
+		return job;
+	}
+	public void setJob(String job) {
+		this.job = job;
+	}
+	
+	public void show() {
+		System.out.println("ID="+ this.getPid());
+		System.out.println("Name="+ this.getPname());
+		System.out.println("Job="+ this.getJob());
+	}
+
+}
