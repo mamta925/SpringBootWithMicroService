@@ -1,0 +1,14 @@
+package com.spr;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ReadingController {
+
+@GetMapping("/reading")
+public Readings getReadings() {
+    return new Readings(100, 200);
+}
+}
+
