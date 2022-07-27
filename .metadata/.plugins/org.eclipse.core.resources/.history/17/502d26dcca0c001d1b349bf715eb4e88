@@ -1,0 +1,6 @@
+CREATE TABLE Person(
+pid INT PRIMARY KEY,
+pname VARCHAR(50) NOT NULL,
+age INT,
+pjob VARCHAR(50)
+);

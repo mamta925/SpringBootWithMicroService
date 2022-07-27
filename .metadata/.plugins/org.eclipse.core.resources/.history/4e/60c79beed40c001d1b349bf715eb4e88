@@ -1,0 +1,44 @@
+package com.spr;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+@Service
+public class PersonService {
+    @Autowired PersonRepository personRepository;
+    public java.util.List<Person> getAllPersons(){
+        java.util.List<Person> records= new java.util.ArrayList<Person>();
+        personRepository.findAll().forEach(records::add);
+        return records;
+    } 
+    
+    public Optional<Person> getPerson(Integer id){  
+        return personRepository.findById(id);  
+    }
+    
+    public void addPerson(Person personRecord){  
+        personRepository.save(personRecord);  
+    } 
+    
+    public void delete(Integer id){  
+        personRepository.deleteById(id);
+    } 
+    
+    public Person updatePerson(Person person) {
+        int pid=person.getPid();
+        Person p= personRepository.findById(pid).get();
+        p.setPid(pid);
+        p.setPname(person.getPname());
+        p.setPjob(person.getPjob());
+        personRepository.save(p);
+        return p;
+    }
+    
+    public java.util.List<Person> getPersonByJob(String pjob){
+    	return personRepository
+    }
+}
+
+

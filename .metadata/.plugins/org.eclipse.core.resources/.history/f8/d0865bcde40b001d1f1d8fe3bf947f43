@@ -1,0 +1,22 @@
+package com.spr;
+
+public class Allowances {
+	private int hra, ta;
+
+	public int getHra() {
+		return hra;
+	}
+
+	public void setHra(int hra) {
+		this.hra = hra;
+	}
+
+	public int getTa() {
+		return ta;
+	}
+
+	public void setTa(int ta) {
+		this.ta = ta;
+	}
+
+}
