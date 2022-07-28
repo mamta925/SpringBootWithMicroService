@@ -4359,3 +4359,691 @@ java.net.URISyntaxException: Illegal character in path at index 20: file:/Volume
 2022-07-27 12:38:23,047 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-27 12:38:23,048 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-07-27 12:38:23,048 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/reading-service/src/test/resources
+2022-07-27 15:36:00,750 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-27 15:36:12,624 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:12,625 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:12,662 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:12,705 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:12,762 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:12,763 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:12,763 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/JpaDB/src/test/resources
+2022-07-27 15:36:17,097 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:17,097 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:17,100 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:17,113 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:36:17,122 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:17,123 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:17,123 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/basic-app/src/test/resources
+2022-07-27 15:36:19,078 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:19,080 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:19,084 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:19,094 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:19,100 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:19,100 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:19,100 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/h2-db/src/test/resources
+2022-07-27 15:36:21,353 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:21,354 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:21,361 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:21,380 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:36:21,386 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:21,386 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:21,386 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-sale-service/src/test/resources
+2022-07-27 15:36:23,500 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:23,501 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:23,503 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:23,510 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:36:23,519 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:23,519 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:23,519 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-service/src/test/resources
+2022-07-27 15:36:26,088 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:26,088 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:26,090 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:26,095 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:36:26,103 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:26,103 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:26,103 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/reading-cloud-config-server/src/test/resources
+2022-07-27 15:36:28,163 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:28,163 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:28,165 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:28,171 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:36:28,175 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:28,175 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:28,175 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/reading-service/src/test/resources
+2022-07-27 15:36:29,945 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:29,945 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:29,946 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:29,950 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:36:29,953 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:29,953 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:29,954 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/sprApp1/src/test/resources
+2022-07-27 15:36:32,370 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:32,371 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:32,373 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:32,383 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-07-27 15:36:32,408 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:32,408 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:32,408 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/sprMVC/src/test/resources
+2022-07-27 15:36:33,900 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:33,900 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:33,901 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:33,902 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2022-07-27 15:36:34,029 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:34,030 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:34,030 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/web-app/src/test/resources
+2022-07-27 15:36:35,909 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:35,910 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:35,912 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:36:35,916 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-27 15:36:35,922 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:36:35,922 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:36:35,922 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/web-rest-app/src/test/resources
+2022-07-27 15:37:45,202 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.microservice:naming-server:0.0.1-SNAPSHOT @ /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/naming-server/pom.xml.
+2022-07-27 15:37:47,629 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3.pom
+2022-07-27 15:37:47,958 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3.pom
+2022-07-27 15:37:48,613 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix/3.1.3/spring-cloud-netflix-3.1.3.pom
+2022-07-27 15:37:49,686 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix/3.1.3/spring-cloud-netflix-3.1.3.pom
+2022-07-27 15:37:50,964 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.3/spring-cloud-netflix-eureka-server-3.1.3.pom
+2022-07-27 15:37:52,037 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.3/spring-cloud-netflix-eureka-server-3.1.3.pom
+2022-07-27 15:37:52,367 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-freemarker/2.7.2/spring-boot-starter-freemarker-2.7.2.pom
+2022-07-27 15:37:52,996 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-freemarker/2.7.2/spring-boot-starter-freemarker-2.7.2.pom
+2022-07-27 15:37:53,299 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/freemarker/freemarker/2.3.31/freemarker-2.3.31.pom
+2022-07-27 15:37:54,748 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/freemarker/freemarker/2.3.31/freemarker-2.3.31.pom
+2022-07-27 15:37:55,053 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.22/spring-context-support-5.3.22.pom
+2022-07-27 15:37:55,355 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.22/spring-context-support-5.3.22.pom
+2022-07-27 15:37:56,430 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.3/spring-cloud-netflix-eureka-client-3.1.3.pom
+2022-07-27 15:37:57,541 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.3/spring-cloud-netflix-eureka-client-3.1.3.pom
+2022-07-27 15:37:57,857 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17.pom
+2022-07-27 15:37:58,471 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17.pom
+2022-07-27 15:37:58,775 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-eventbus/0.3.0/netflix-eventbus-0.3.0.pom
+2022-07-27 15:38:00,462 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-eventbus/0.3.0/netflix-eventbus-0.3.0.pom
+2022-07-27 15:38:00,776 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-infix/0.3.0/netflix-infix-0.3.0.pom
+2022-07-27 15:38:01,070 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-infix/0.3.0/netflix-infix-0.3.0.pom
+2022-07-27 15:38:02,138 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/commons-jxpath/commons-jxpath/1.3/commons-jxpath-1.3.pom
+2022-07-27 15:38:03,159 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/commons-jxpath/commons-jxpath/1.3/commons-jxpath-1.3.pom
+2022-07-27 15:38:03,562 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.pom
+2022-07-27 15:38:03,869 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.pom
+2022-07-27 15:38:04,175 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2022-07-27 15:38:04,485 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2022-07-27 15:38:04,788 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2022-07-27 15:38:05,088 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2022-07-27 15:38:05,392 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson/2.9.0/gson-2.9.0.pom
+2022-07-27 15:38:05,734 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson/2.9.0/gson-2.9.0.pom
+2022-07-27 15:38:06,047 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson-parent/2.9.0/gson-parent-2.9.0.pom
+2022-07-27 15:38:06,388 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson-parent/2.9.0/gson-parent-2.9.0.pom
+2022-07-27 15:38:07,430 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.5.3/servo-core-0.5.3.pom
+2022-07-27 15:38:08,580 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.5.3/servo-core-0.5.3.pom
+2022-07-27 15:38:08,876 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-math/2.2/commons-math-2.2.pom
+2022-07-27 15:38:09,196 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-math/2.2/commons-math-2.2.pom
+2022-07-27 15:38:09,496 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-parent/18/commons-parent-18.pom
+2022-07-27 15:38:10,106 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-parent/18/commons-parent-18.pom
+2022-07-27 15:38:10,420 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream/1.4.18/xstream-1.4.18.pom
+2022-07-27 15:38:10,725 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream/1.4.18/xstream-1.4.18.pom
+2022-07-27 15:38:11,026 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream-parent/1.4.18/xstream-parent-1.4.18.pom
+2022-07-27 15:38:11,639 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream-parent/1.4.18/xstream-parent-1.4.18.pom
+2022-07-27 15:38:11,953 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.pom
+2022-07-27 15:38:12,272 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.pom
+2022-07-27 15:38:12,646 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2022-07-27 15:38:12,954 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.pom
+2022-07-27 15:38:14,033 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.12.21/servo-core-0.12.21.pom
+2022-07-27 15:38:14,329 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.12.21/servo-core-0.12.21.pom
+2022-07-27 15:38:15,416 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1.pom
+2022-07-27 15:38:15,717 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1.pom
+2022-07-27 15:38:16,470 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-project/1.19.1/jersey-project-1.19.1.pom
+2022-07-27 15:38:16,788 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-project/1.19.1/jersey-project-1.19.1.pom
+2022-07-27 15:38:17,116 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.1/jersey-client-1.19.1.pom
+2022-07-27 15:38:18,229 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.1/jersey-client-1.19.1.pom
+2022-07-27 15:38:18,528 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1.pom
+2022-07-27 15:38:19,120 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1.pom
+2022-07-27 15:38:19,418 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-contribs/1.19.1/jersey-contribs-1.19.1.pom
+2022-07-27 15:38:19,728 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-contribs/1.19.1/jersey-contribs-1.19.1.pom
+2022-07-27 15:38:20,080 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.pom
+2022-07-27 15:38:20,385 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.pom
+2022-07-27 15:38:20,738 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2022-07-27 15:38:21,039 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.pom
+2022-07-27 15:38:21,377 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/jettison/jettison/1.4.0/jettison-1.4.0.pom
+2022-07-27 15:38:21,687 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/jettison/jettison/1.4.0/jettison-1.4.0.pom
+2022-07-27 15:38:21,997 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-servlet/1.19.4/jersey-servlet-1.19.4.pom
+2022-07-27 15:38:22,299 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-servlet/1.19.4/jersey-servlet-1.19.4.pom
+2022-07-27 15:38:22,604 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-project/1.19.4/jersey-project-1.19.4.pom
+2022-07-27 15:38:22,923 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-project/1.19.4/jersey-project-1.19.4.pom
+2022-07-27 15:38:23,284 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4.pom
+2022-07-27 15:38:23,587 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4.pom
+2022-07-27 15:38:23,885 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.4/jersey-core-1.19.4.pom
+2022-07-27 15:38:24,184 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.4/jersey-core-1.19.4.pom
+2022-07-27 15:38:24,485 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.4/jersey-client-1.19.4.pom
+2022-07-27 15:38:24,781 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.4/jersey-client-1.19.4.pom
+2022-07-27 15:38:25,075 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17.pom
+2022-07-27 15:38:25,375 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17.pom
+2022-07-27 15:38:25,677 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.1/woodstox-core-6.2.1.pom
+2022-07-27 15:38:25,986 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.1/woodstox-core-6.2.1.pom
+2022-07-27 15:38:26,310 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.pom
+2022-07-27 15:38:26,603 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.pom
+2022-07-27 15:38:26,901 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.13.3/jackson-dataformat-xml-2.13.3.pom
+2022-07-27 15:38:27,221 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.13.3/jackson-dataformat-xml-2.13.3.pom
+2022-07-27 15:38:27,531 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.7/woodstox-core-6.2.7.pom
+2022-07-27 15:38:27,839 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.7/woodstox-core-6.2.7.pom
+2022-07-27 15:38:28,474 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3.pom
+2022-07-27 15:38:28,774 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3.pom
+2022-07-27 15:38:29,120 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-loadbalancer/3.1.3/spring-cloud-loadbalancer-3.1.3.pom
+2022-07-27 15:38:29,771 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-loadbalancer/3.1.3/spring-cloud-loadbalancer-3.1.3.pom
+2022-07-27 15:38:30,091 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.pom
+2022-07-27 15:38:30,388 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.pom
+2022-07-27 15:38:30,683 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.pom
+2022-07-27 15:38:30,998 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.pom
+2022-07-27 15:38:31,286 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8.pom
+2022-07-27 15:38:31,586 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8.pom
+2022-07-27 15:38:31,886 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.2/spring-boot-starter-cache-2.7.2.pom
+2022-07-27 15:38:32,196 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.2/spring-boot-starter-cache-2.7.2.pom
+2022-07-27 15:38:32,494 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/stoyanr/evictor/1.0.0/evictor-1.0.0.pom
+2022-07-27 15:38:32,803 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/stoyanr/evictor/1.0.0/evictor-1.0.0.pom
+2022-07-27 15:38:33,492 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.22/spring-context-support-5.3.22.jar
+2022-07-27 15:38:34,361 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.22/spring-context-support-5.3.22.jar
+2022-07-27 15:38:34,648 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.3/spring-cloud-netflix-eureka-client-3.1.3.jar
+2022-07-27 15:38:34,727 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-freemarker/2.7.2/spring-boot-starter-freemarker-2.7.2.jar
+2022-07-27 15:38:34,997 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3.jar
+2022-07-27 15:38:34,997 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/freemarker/freemarker/2.3.31/freemarker-2.3.31.jar
+2022-07-27 15:38:35,000 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.3/spring-cloud-netflix-eureka-server-3.1.3.jar
+2022-07-27 15:38:35,026 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-freemarker/2.7.2/spring-boot-starter-freemarker-2.7.2.jar
+2022-07-27 15:38:35,306 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3.jar
+2022-07-27 15:38:35,566 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.3/spring-cloud-netflix-eureka-client-3.1.3.jar
+2022-07-27 15:38:35,664 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17.jar
+2022-07-27 15:38:35,856 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-infix/0.3.0/netflix-infix-0.3.0.jar
+2022-07-27 15:38:36,453 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-infix/0.3.0/netflix-infix-0.3.0.jar
+2022-07-27 15:38:36,644 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-eventbus/0.3.0/netflix-eventbus-0.3.0.jar
+2022-07-27 15:38:36,741 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/commons-jxpath/commons-jxpath/1.3/commons-jxpath-1.3.jar
+2022-07-27 15:38:37,720 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17.jar
+2022-07-27 15:38:38,016 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar
+2022-07-27 15:38:38,250 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-eventbus/0.3.0/netflix-eventbus-0.3.0.jar
+2022-07-27 15:38:38,463 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/commons-jxpath/commons-jxpath/1.3/commons-jxpath-1.3.jar
+2022-07-27 15:38:38,538 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar
+2022-07-27 15:38:38,622 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar
+2022-07-27 15:38:38,751 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-math/2.2/commons-math-2.2.jar
+2022-07-27 15:38:38,917 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream/1.4.18/xstream-1.4.18.jar
+2022-07-27 15:38:39,738 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar
+2022-07-27 15:38:40,035 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.jar
+2022-07-27 15:38:40,336 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.jar
+2022-07-27 15:38:40,514 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.3/spring-cloud-netflix-eureka-server-3.1.3.jar
+2022-07-27 15:38:40,631 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2022-07-27 15:38:40,796 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-math/2.2/commons-math-2.2.jar
+2022-07-27 15:38:40,800 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.12.21/servo-core-0.12.21.jar
+2022-07-27 15:38:40,922 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar
+2022-07-27 15:38:41,083 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1.jar
+2022-07-27 15:38:41,215 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1.jar
+2022-07-27 15:38:41,516 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1.jar
+2022-07-27 15:38:41,523 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream/1.4.18/xstream-1.4.18.jar
+2022-07-27 15:38:41,808 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar
+2022-07-27 15:38:41,816 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.jar
+2022-07-27 15:38:41,988 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1.jar
+2022-07-27 15:38:42,285 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/jettison/jettison/1.4.0/jettison-1.4.0.jar
+2022-07-27 15:38:42,602 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/jettison/jettison/1.4.0/jettison-1.4.0.jar
+2022-07-27 15:38:42,841 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.12.21/servo-core-0.12.21.jar
+2022-07-27 15:38:42,886 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-servlet/1.19.4/jersey-servlet-1.19.4.jar
+2022-07-27 15:38:42,995 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar
+2022-07-27 15:38:43,136 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4.jar
+2022-07-27 15:38:43,202 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-servlet/1.19.4/jersey-servlet-1.19.4.jar
+2022-07-27 15:38:43,284 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.4/jersey-client-1.19.4.jar
+2022-07-27 15:38:43,496 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17.jar
+2022-07-27 15:38:43,886 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.4/jersey-client-1.19.4.jar
+2022-07-27 15:38:44,086 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17.jar
+2022-07-27 15:38:44,175 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.1/woodstox-core-6.2.1.jar
+2022-07-27 15:38:44,376 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.13.3/jackson-dataformat-xml-2.13.3.jar
+2022-07-27 15:38:44,472 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0.jar
+2022-07-27 15:38:44,679 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.13.3/jackson-dataformat-xml-2.13.3.jar
+2022-07-27 15:38:44,761 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar
+2022-07-27 15:38:45,258 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3.jar
+2022-07-27 15:38:45,637 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar
+2022-07-27 15:38:45,930 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-loadbalancer/3.1.3/spring-cloud-loadbalancer-3.1.3.jar
+2022-07-27 15:38:46,375 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3.jar
+2022-07-27 15:38:46,669 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.jar
+2022-07-27 15:38:46,753 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/freemarker/freemarker/2.3.31/freemarker-2.3.31.jar
+2022-07-27 15:38:46,819 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-loadbalancer/3.1.3/spring-cloud-loadbalancer-3.1.3.jar
+2022-07-27 15:38:46,876 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4.jar
+2022-07-27 15:38:47,042 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2022-07-27 15:38:47,161 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.2/spring-boot-starter-cache-2.7.2.jar
+2022-07-27 15:38:47,339 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+2022-07-27 15:38:47,383 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.1/woodstox-core-6.2.1.jar
+2022-07-27 15:38:47,443 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8.jar
+2022-07-27 15:38:47,470 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.2/spring-boot-starter-cache-2.7.2.jar
+2022-07-27 15:38:48,355 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/stoyanr/evictor/1.0.0/evictor-1.0.0.jar
+2022-07-27 15:38:48,653 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/stoyanr/evictor/1.0.0/evictor-1.0.0.jar
+2022-07-27 15:38:49,114 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8.jar
+2022-07-27 15:38:50,178 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21.jar
+2022-07-27 15:38:59,044 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /naming-server/src/main/java
+2022-07-27 15:38:59,048 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /naming-server/src/main/resources
+2022-07-27 15:38:59,049 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /naming-server/src/main/resources
+2022-07-27 15:38:59,049 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /naming-server/src/test/java
+2022-07-27 15:38:59,281 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 75 sec
+2022-07-27 15:39:01,467 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:product-sale-service1:0.0.1-SNAPSHOT @ /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-sale-feignservice/pom.xml.
+2022-07-27 15:39:04,031 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3.pom
+2022-07-27 15:39:05,162 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3.pom
+2022-07-27 15:39:05,808 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.19/reactor-core-3.4.19.pom
+2022-07-27 15:39:06,139 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.19/reactor-core-3.4.19.pom
+2022-07-27 15:39:06,480 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.1/spring-boot-starter-cache-2.7.1.pom
+2022-07-27 15:39:06,788 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.1/spring-boot-starter-cache-2.7.1.pom
+2022-07-27 15:39:07,086 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.21/spring-context-support-5.3.21.pom
+2022-07-27 15:39:07,380 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.21/spring-context-support-5.3.21.pom
+2022-07-27 15:39:07,858 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.19/reactor-core-3.4.19.jar
+2022-07-27 15:39:09,075 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.21/spring-context-support-5.3.21.jar
+2022-07-27 15:39:09,308 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3.jar
+2022-07-27 15:39:09,941 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.1/spring-boot-starter-cache-2.7.1.jar
+2022-07-27 15:39:10,422 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3.jar
+2022-07-27 15:39:11,085 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.1/spring-boot-starter-cache-2.7.1.jar
+2022-07-27 15:39:11,335 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.21/spring-context-support-5.3.21.jar
+2022-07-27 15:39:14,204 [AetherRepositoryConnector-artifactory.oci.oraclecorp.com-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.19/reactor-core-3.4.19.jar
+2022-07-27 15:39:15,397 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-sale-feignservice/src/main/java
+2022-07-27 15:39:15,398 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-sale-feignservice/src/main/resources
+2022-07-27 15:39:15,398 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-sale-feignservice/src/main/resources
+2022-07-27 15:39:15,399 [Worker-1: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-sale-feignservice/src/test/java
+2022-07-27 15:39:15,419 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3-sources.jar
+2022-07-27 15:39:15,709 [Worker-1: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2022-07-27 15:39:17,306 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:39:17,308 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:39:17,309 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:39:17,331 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:39:17,334 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:39:17,334 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:39:17,334 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/naming-server/src/test/resources
+2022-07-27 15:39:19,397 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:39:19,399 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:39:19,401 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:39:19,412 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:39:19,413 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:39:19,413 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:39:19,413 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-sale-feignservice/src/test/resources
+2022-07-27 15:39:19,432 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3-sources.jar
+2022-07-27 15:39:19,489 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:3.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:3.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:39:21,705 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.3/spring-cloud-netflix-eureka-server-3.1.3-sources.jar
+2022-07-27 15:39:24,352 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-server/3.1.3/spring-cloud-netflix-eureka-server-3.1.3-sources.jar
+2022-07-27 15:39:24,561 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-server:3.1.3
+2022-07-27 15:39:26,106 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-freemarker/2.7.2/spring-boot-starter-freemarker-2.7.2-sources.jar
+2022-07-27 15:39:26,415 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-freemarker/2.7.2/spring-boot-starter-freemarker-2.7.2-sources.jar
+2022-07-27 15:39:26,580 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-freemarker:2.7.2
+2022-07-27 15:39:28,067 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/freemarker/freemarker/2.3.31/freemarker-2.3.31-sources.jar
+2022-07-27 15:39:32,403 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/freemarker/freemarker/2.3.31/freemarker-2.3.31-sources.jar
+2022-07-27 15:39:32,589 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.freemarker:freemarker:2.3.31
+2022-07-27 15:39:34,082 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.22/spring-context-support-5.3.22-sources.jar
+2022-07-27 15:39:35,824 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.22/spring-context-support-5.3.22-sources.jar
+2022-07-27 15:39:35,962 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.3.22
+2022-07-27 15:39:38,274 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.3/spring-cloud-netflix-eureka-client-3.1.3-sources.jar
+2022-07-27 15:39:39,493 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.1.3/spring-cloud-netflix-eureka-client-3.1.3-sources.jar
+2022-07-27 15:39:40,064 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.3
+2022-07-27 15:39:42,366 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17-sources.jar
+2022-07-27 15:39:44,822 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-client/1.10.17/eureka-client-1.10.17-sources.jar
+2022-07-27 15:39:44,954 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client:1.10.17
+2022-07-27 15:39:46,443 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-eventbus/0.3.0/netflix-eventbus-0.3.0-sources.jar
+2022-07-27 15:39:48,145 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-eventbus/0.3.0/netflix-eventbus-0.3.0-sources.jar
+2022-07-27 15:39:48,306 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-eventbus:0.3.0
+2022-07-27 15:39:49,797 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-infix/0.3.0/netflix-infix-0.3.0-sources.jar
+2022-07-27 15:39:51,004 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/netflix-commons/netflix-infix/0.3.0/netflix-infix-0.3.0-sources.jar
+2022-07-27 15:39:51,115 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-infix:0.3.0
+2022-07-27 15:39:52,960 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/commons-jxpath/commons-jxpath/1.3/commons-jxpath-1.3-sources.jar
+2022-07-27 15:39:55,802 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/commons-jxpath/commons-jxpath/1.3/commons-jxpath-1.3-sources.jar
+2022-07-27 15:39:55,920 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-jxpath:commons-jxpath:1.3
+2022-07-27 15:39:57,400 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/joda-time/joda-time/2.3/joda-time-2.3-sources.jar
+2022-07-27 15:40:00,486 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/joda-time/joda-time/2.3/joda-time-2.3-sources.jar
+2022-07-27 15:40:01,151 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.3
+2022-07-27 15:40:02,665 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/antlr-runtime/3.4/antlr-runtime-3.4-sources.jar
+2022-07-27 15:40:04,986 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/antlr-runtime/3.4/antlr-runtime-3.4-sources.jar
+2022-07-27 15:40:05,197 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-runtime:3.4
+2022-07-27 15:40:06,699 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1-sources.jar
+2022-07-27 15:40:07,854 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1-sources.jar
+2022-07-27 15:40:07,984 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:stringtemplate:3.2.1
+2022-07-27 15:40:09,469 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson/2.9.0/gson-2.9.0-sources.jar
+2022-07-27 15:40:10,641 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/code/gson/gson/2.9.0/gson-2.9.0-sources.jar
+2022-07-27 15:40:10,956 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.9.0
+2022-07-27 15:40:13,084 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-math/2.2/commons-math-2.2-sources.jar
+2022-07-27 15:40:17,209 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/apache/commons/commons-math/2.2/commons-math-2.2-sources.jar
+2022-07-27 15:40:17,520 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-math:2.2
+2022-07-27 15:40:19,062 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream/1.4.18/xstream-1.4.18-sources.jar
+2022-07-27 15:40:22,003 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/thoughtworks/xstream/xstream/1.4.18/xstream-1.4.18-sources.jar
+2022-07-27 15:40:22,146 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.18
+2022-07-27 15:40:23,684 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2-sources.jar
+2022-07-27 15:40:25,162 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2-sources.jar
+2022-07-27 15:40:25,877 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.x-stream:mxparser:1.2.2
+2022-07-27 15:40:35,426 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1-sources.jar
+2022-07-27 15:40:39,057 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1-sources.jar
+2022-07-27 15:40:39,068 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for xmlpull:xmlpull:1.1.3.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:sources:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:40:40,632 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar
+2022-07-27 15:40:42,559 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar
+2022-07-27 15:40:42,742 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:jsr311-api:1.1.1
+2022-07-27 15:40:44,580 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.12.21/servo-core-0.12.21-sources.jar
+2022-07-27 15:40:46,408 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/servo/servo-core/0.12.21/servo-core-0.12.21-sources.jar
+2022-07-27 15:40:46,554 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.servo:servo-core:0.12.21
+2022-07-27 15:40:48,055 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/guava/guava/19.0/guava-19.0-sources.jar
+2022-07-27 15:40:53,059 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/guava/guava/19.0/guava-19.0-sources.jar
+2022-07-27 15:40:53,284 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:19.0
+2022-07-27 15:40:54,785 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1-sources.jar
+2022-07-27 15:40:56,538 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-core/1.19.1/jersey-core-1.19.1-sources.jar
+2022-07-27 15:40:56,684 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-core:1.19.1
+2022-07-27 15:40:59,103 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1-sources.jar
+2022-07-27 15:41:00,047 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/contribs/jersey-apache-client4/1.19.1/jersey-apache-client4-1.19.1-sources.jar
+2022-07-27 15:41:00,165 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey.contribs:jersey-apache-client4:1.19.1
+2022-07-27 15:41:01,664 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/commons-configuration/commons-configuration/1.10/commons-configuration-1.10-sources.jar
+2022-07-27 15:41:03,461 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/commons-configuration/commons-configuration/1.10/commons-configuration-1.10-sources.jar
+2022-07-27 15:41:03,587 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-configuration:commons-configuration:1.10
+2022-07-27 15:41:05,071 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2022-07-27 15:41:07,676 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar
+2022-07-27 15:41:07,942 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2022-07-27 15:41:09,450 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar
+2022-07-27 15:41:11,228 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/google/inject/guice/4.1.0/guice-4.1.0-sources.jar
+2022-07-27 15:41:11,389 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.inject:guice:4.1.0
+2022-07-27 15:41:12,904 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/jettison/jettison/1.4.0/jettison-1.4.0-sources.jar
+2022-07-27 15:41:14,538 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/jettison/jettison/1.4.0/jettison-1.4.0-sources.jar
+2022-07-27 15:41:14,662 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jettison:jettison:1.4.0
+2022-07-27 15:41:16,439 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-servlet/1.19.4/jersey-servlet-1.19.4-sources.jar
+2022-07-27 15:41:18,385 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-servlet/1.19.4/jersey-servlet-1.19.4-sources.jar
+2022-07-27 15:41:18,543 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-servlet:1.19.4
+2022-07-27 15:41:20,056 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4-sources.jar
+2022-07-27 15:41:23,277 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-server/1.19.4/jersey-server-1.19.4-sources.jar
+2022-07-27 15:41:23,371 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-server:1.19.4
+2022-07-27 15:41:24,885 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.4/jersey-client-1.19.4-sources.jar
+2022-07-27 15:41:26,099 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/sun/jersey/jersey-client/1.19.4/jersey-client-1.19.4-sources.jar
+2022-07-27 15:41:26,473 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.jersey:jersey-client:1.19.4
+2022-07-27 15:41:28,328 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17-sources.jar
+2022-07-27 15:41:30,319 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/netflix/eureka/eureka-core/1.10.17/eureka-core-1.10.17-sources.jar
+2022-07-27 15:41:30,455 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core:1.10.17
+2022-07-27 15:41:32,781 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.1/woodstox-core-6.2.1-sources.jar
+2022-07-27 15:41:35,164 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/woodstox/woodstox-core/6.2.1/woodstox-core-6.2.1-sources.jar
+2022-07-27 15:41:35,537 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.woodstox:woodstox-core:6.2.1
+2022-07-27 15:41:37,083 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/javax/inject/javax.inject/1/javax.inject-1-sources.jar
+2022-07-27 15:41:38,638 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/javax/inject/javax.inject/1/javax.inject-1-sources.jar
+2022-07-27 15:41:38,799 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.inject:javax.inject:1
+2022-07-27 15:41:41,177 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.13.3/jackson-dataformat-xml-2.13.3-sources.jar
+2022-07-27 15:41:43,219 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.13.3/jackson-dataformat-xml-2.13.3-sources.jar
+2022-07-27 15:41:43,442 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.13.3
+2022-07-27 15:41:45,000 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1-sources.jar
+2022-07-27 15:41:46,509 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1-sources.jar
+2022-07-27 15:41:46,641 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:stax2-api:4.2.1
+2022-07-27 15:42:00,879 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3-sources.jar
+2022-07-27 15:42:05,534 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3-sources.jar
+2022-07-27 15:42:05,544 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-loadbalancer:3.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:3.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:42:07,058 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-loadbalancer/3.1.3/spring-cloud-loadbalancer-3.1.3-sources.jar
+2022-07-27 15:42:08,747 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-loadbalancer/3.1.3/spring-cloud-loadbalancer-3.1.3-sources.jar
+2022-07-27 15:42:08,927 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-loadbalancer:3.1.3
+2022-07-27 15:42:10,675 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21-sources.jar
+2022-07-27 15:42:17,300 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.21/reactor-core-3.4.21-sources.jar
+2022-07-27 15:42:17,797 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.4.21
+2022-07-27 15:42:19,580 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2022-07-27 15:42:19,885 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4-sources.jar
+2022-07-27 15:42:20,081 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.4
+2022-07-27 15:42:22,536 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8-sources.jar
+2022-07-27 15:42:24,538 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/addons/reactor-extra/3.4.8/reactor-extra-3.4.8-sources.jar
+2022-07-27 15:42:24,741 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.addons:reactor-extra:3.4.8
+2022-07-27 15:42:26,259 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.2/spring-boot-starter-cache-2.7.2-sources.jar
+2022-07-27 15:42:26,562 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.2/spring-boot-starter-cache-2.7.2-sources.jar
+2022-07-27 15:42:26,686 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:2.7.2
+2022-07-27 15:42:28,197 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/com/stoyanr/evictor/1.0.0/evictor-1.0.0-sources.jar
+2022-07-27 15:42:29,601 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/com/stoyanr/evictor/1.0.0/evictor-1.0.0-sources.jar
+2022-07-27 15:42:29,753 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.stoyanr:evictor:1.0.0
+2022-07-27 15:42:43,812 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3-sources.jar
+2022-07-27 15:42:50,906 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3-sources.jar
+2022-07-27 15:42:50,916 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:3.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:42:50,931 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:3.1.3
+2022-07-27 15:42:50,938 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client:1.10.17
+2022-07-27 15:42:50,959 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-eventbus:0.3.0
+2022-07-27 15:42:50,967 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.netflix-commons:netflix-infix:0.3.0
+2022-07-27 15:42:50,971 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-jxpath:commons-jxpath:1.3
+2022-07-27 15:42:50,974 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for joda-time:joda-time:2.3
+2022-07-27 15:42:50,979 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-runtime:3.4
+2022-07-27 15:42:50,982 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:stringtemplate:3.2.1
+2022-07-27 15:42:50,988 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.9.0
+2022-07-27 15:42:50,990 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-math:2.2
+2022-07-27 15:42:51,001 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.18
+2022-07-27 15:42:51,008 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.x-stream:mxparser:1.2.2
+2022-07-27 15:43:02,533 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1-javadoc.jar
+2022-07-27 15:43:06,440 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1-javadoc.jar
+2022-07-27 15:43:06,447 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for xmlpull:xmlpull:1.1.3.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:43:06,475 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.ws.rs:jsr311-api:1.1.1
+2022-07-27 15:43:06,480 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.servo:servo-core:0.12.21
+2022-07-27 15:43:06,482 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:19.0
+2022-07-27 15:43:06,497 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-configuration:commons-configuration:1.10
+2022-07-27 15:43:06,504 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.6
+2022-07-27 15:43:06,509 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.inject:guice:4.1.0
+2022-07-27 15:43:06,517 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.inject:javax.inject:1
+2022-07-27 15:43:06,522 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.jettison:jettison:1.4.0
+2022-07-27 15:43:06,524 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core:1.10.17
+2022-07-27 15:43:06,534 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.woodstox:woodstox-core:6.2.1
+2022-07-27 15:43:06,538 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:stax2-api:4.2.1
+2022-07-27 15:43:19,149 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3-javadoc.jar
+2022-07-27 15:43:23,041 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/org/springframework/cloud/spring-cloud-starter-loadbalancer/3.1.3/spring-cloud-starter-loadbalancer-3.1.3-javadoc.jar
+2022-07-27 15:43:23,047 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-loadbalancer:3.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:3.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:43:23,097 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-loadbalancer:3.1.3
+2022-07-27 15:43:25,392 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.19/reactor-core-3.4.19-sources.jar
+2022-07-27 15:43:32,994 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/io/projectreactor/reactor-core/3.4.19/reactor-core-3.4.19-sources.jar
+2022-07-27 15:43:33,144 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor:reactor-core:3.4.19
+2022-07-27 15:43:33,167 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.reactivestreams:reactive-streams:1.0.4
+2022-07-27 15:43:33,183 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.projectreactor.addons:reactor-extra:3.4.8
+2022-07-27 15:43:35,236 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.1/spring-boot-starter-cache-2.7.1-sources.jar
+2022-07-27 15:43:36,319 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/boot/spring-boot-starter-cache/2.7.1/spring-boot-starter-cache-2.7.1-sources.jar
+2022-07-27 15:43:36,467 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-cache:2.7.1
+2022-07-27 15:43:39,084 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.21/spring-context-support-5.3.21-sources.jar
+2022-07-27 15:43:41,084 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/spring-context-support/5.3.21/spring-context-support-5.3.21-sources.jar
+2022-07-27 15:43:41,217 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:5.3.21
+2022-07-27 15:43:41,232 [Worker-25: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.stoyanr:evictor:1.0.0
+2022-07-27 15:43:41,988 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:43:41,992 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:43:41,997 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:43:41,998 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:43:42,003 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:43:42,003 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:43:42,003 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/naming-server/src/test/resources
+2022-07-27 15:43:42,044 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:43:42,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:43:42,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:43:42,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:43:42,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:43:42,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:43:42,045 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-sale-feignservice/src/test/resources
+2022-07-27 15:44:28,144 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3-javadoc.jar
+2022-07-27 15:44:33,618 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/3.1.3/spring-cloud-starter-netflix-eureka-server-3.1.3-javadoc.jar
+2022-07-27 15:44:33,630 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:3.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:3.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:46:31,114 [ForkJoinPool.commonPool-worker-5] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 20: file:/Volumes/Spring Tool Suite 4/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 20: file:/Volumes/Spring Tool Suite 4/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:161)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:233)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-07-27 15:46:43,144 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:product-service:0.0.1-SNAPSHOT @ /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-service/pom.xml.
+2022-07-27 15:46:44,926 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:46:44,929 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:46:44,933 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:46:44,934 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:46:44,946 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:46:44,946 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:46:44,946 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-service/src/test/resources
+2022-07-27 15:46:46,670 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:46:46,673 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:46:46,678 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:46:46,686 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:46:46,687 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:46:46,688 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:46:46,688 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-service/src/test/resources
+2022-07-27 15:47:00,360 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-release/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3-javadoc.jar
+2022-07-27 15:47:07,829 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://artifactory.oci.oraclecorp.com/libs-snapshot/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/3.1.3/spring-cloud-starter-netflix-eureka-client-3.1.3-javadoc.jar
+2022-07-27 15:47:07,845 [Worker-31: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:3.1.3
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:3.1.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-07-27 15:47:29,107 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:47:29,112 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:47:29,131 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-27 15:47:29,163 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-27 15:47:29,199 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-27 15:47:29,208 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-27 15:47:29,208 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mamtaku/Documents/workspace-spring-tool-suite-4-4.15.1.RELEASE/product-service/src/test/resources
